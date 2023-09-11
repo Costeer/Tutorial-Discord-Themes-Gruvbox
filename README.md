@@ -1,3 +1,6 @@
+# Index
+[BetterDiscord](#BetterDiscord)
+
 # Installation
 
 ## BetterDiscord
