@@ -29,10 +29,18 @@
 > In the meantime, ask in their [Discord Server](https://discord.com/invite/replugged)
 
 ## Vencord
-Simply copy this and replace the name to the theme you wish to use:
+1. Simply copy this,
 ```
-https://discordstyles.github.io/THEMENAME/THEMENAME.theme.css
+https://github.com/Costeer/Gruvbox-Material-Themes/blob/main/Discord%20Theme/gruvboxmaterial.theme.css
 ```
+2. in the latest Vencord update you can also 
+1. Download the Theme (in the discord themes folder).
+2. Open Vencord.
+3. Open your User Settings page.
+4. Scroll down and open your Themes tab.
+5. Drag the file that you just downloaded into your themes folder.
+	- Themes **MUST** end with a `.theme` extension or `.theme.css` with file name extensions enabled.
+6. Go back to your Themes tab in Discord and enable your theme.
 
 > :warning: **WARNING**: Don't do this if you wish to customize your theme later.
 
