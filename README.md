@@ -1,7 +1,9 @@
 # Index
-[BetterDiscord](#BetterDiscord)
+-[BetterDiscord](#BetterDiscord)
 
-# Installation
+-[Replugged](#Replugged)
+
+-[Vencord](#Vencord)
 
 ## BetterDiscord
 1. [Download BetterDiscord](https://betterdiscord.app/).
